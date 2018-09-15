@@ -1,0 +1,12 @@
+#tudo {
+    width: 200px;
+    height: 150px;
+    background-color: #CFCFCF;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#botao {
+    text-align: center;
+}
+
