@@ -1,5 +1,5 @@
 function teste1(num) {
-    if(num > 7) //sempre usar "{}"
+    if(num > 7) //sempre usar "{}"//
         console.log(num)
         console.log("Final")
 }

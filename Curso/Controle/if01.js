@@ -1,5 +1,5 @@
 function soBoaNoticia(nota) {
-    if(nota >= 7) {
+    if(nota >= 7) {     //se nota for maior ou igual a 7 faça
         console.log("Aprovado com " + nota)
     }
 }

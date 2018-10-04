@@ -9,4 +9,4 @@ const imprimirResultado = function(nota) {
 
 imprimirResultado(10)
 imprimirResultado(6)
-imprimirResultado("Epa!") //Cuidado com esse tipo de erro!
+imprimirResultado("Epa!") //Cuidado com esse tipo de erro!//
