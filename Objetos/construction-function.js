@@ -16,10 +16,14 @@ function Pessoa(nome, idade) {
     this.andar = function () {
         console.log(`${this.nome} andou!`);
     }
+    this.nadar = () => {
+        console.log(`${this.nome} nadou!`);
+    }
 }
 
 const pessoaFisica = new Pessoa("Jardel", 22);
 pessoaFisica.andar();
+pessoaFisica.nadar();
 
 //Crie 3 pessoas: João - 20 anos, Maria - 25 anos, Bruno 15 anos.
 
