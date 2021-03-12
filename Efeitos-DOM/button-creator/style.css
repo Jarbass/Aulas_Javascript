@@ -41,3 +41,15 @@ input {
     display: block;
     margin-bottom: 0.5rem;
 }
+
+.limpar {
+    margin-top: 1rem;
+    width: 5rem;
+    cursor: pointer;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 0px;
+    background-color: rgb(253, 59, 59);
+}
