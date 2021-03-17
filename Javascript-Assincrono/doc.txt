@@ -1,0 +1,5 @@
+// Arquivo feito para demonstrar o .text()
+
+Essa é a melhor empresa.
+
+Essa é a melhor empresa.
